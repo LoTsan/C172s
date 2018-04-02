@@ -14,7 +14,7 @@ function initWB() {
     e.txfuel1arm.value = 95;
     var u = document.forms[2];
     u.windhcrs.value = 200,
-    u.windhtas.value = 110,
+    u.windhtas.value = 140,
     u.windhspeed.value = 25,
     u.windhdir.value = 157;
     Number(u.windhcrs.value),
